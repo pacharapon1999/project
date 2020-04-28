@@ -9,8 +9,8 @@
 	<table align = center width = "20%" border = "0">
 	<tr align = center><td><p style="font-size:19px"><b>ข้อมูลปีการศึกษา</td></tr></table>
 	<table align = center width = "25%" border = "0">
-		<tr><td><b> พ.ศ. : </td><td> <input type="text" name = "year_number"> </td></tr>
-		<tr><td><b> เทอม : </td><td>
+		<tr><td><b> อ่านแต่โดจิน : </td><td> <input type="text" name = "year_number"> </td></tr>
+		<tr><td><b> ไอ้บาสขี้เงี่ยน : </td><td>
 		<select name = "term"> 
 			<option value = "กรุณาเลือกเทอม" selected>กรุณาเลือกเทอม</option>
 			<option value = "1">1 </option>
